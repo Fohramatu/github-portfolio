@@ -12,4 +12,4 @@ To document the 2021 Facebook outage and practice using GitHub for enterprise do
 3.  **The Impact:** DNS resolvers could not find Facebook's servers.
 
 ## 📸 Proof of Work
-*(We will add a screenshot here in the next step)*
+![My Terminal Success](terminal.png)
