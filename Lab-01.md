@@ -1,6 +1,6 @@
 # Lab 01: Infrastructure Audit
-**Name:** [YOUR NAME]
-**Date:** [TODAY'S DATE]
+**Name:** [Ramatu Fofanah]
+**Date:** [February 1st]
 **Status:** Completed
 
 ## 🎯 Objective
