@@ -60,5 +60,5 @@ This portfolio reflects how I approach security work: **with rigor, documentatio
 ---
 
 ## 📧 Let's Connect
-- [LinkedIn](your-linkedin-url)
-- [Email](your-email)
+- [LinkedIn](https://www.linkedin.com/in/ramatu-fofanah-7893b1142))
+- [Email](rfofanah@ymail.com)
